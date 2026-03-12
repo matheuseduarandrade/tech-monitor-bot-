@@ -1,0 +1,15 @@
+.env
+.env.*
+
+credentials.json
+credenciais_telegram.txt
+config.py
+git 
+__pycache__/
+*.pyc
+*.pyo
+
+venv/
+.venv/
+
+.DS_Store
