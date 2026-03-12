@@ -1,0 +1,6 @@
+pyTelegramBotAPI==4.16.1
+requests
+python-dotenv
+apscheduler
+pytz
+
