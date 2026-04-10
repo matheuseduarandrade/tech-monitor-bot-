@@ -18,7 +18,7 @@ def main():
 
     iniciar_agendador(bot)
 
-    print("🤖 Bot Técnicos iniciado...")
+    print(" Bot Técnicos iniciado...")
     bot.infinity_polling(skip_pending=True)
 
 
